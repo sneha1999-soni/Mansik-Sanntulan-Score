@@ -5,7 +5,7 @@
    ========================================================= */
 
 /* ---------- Configuration ---------- */
-const API_BASE_URL = "http://127.0.0.1:2200";
+const API_BASE_URL = " https://mansik-sanntulan-score-1.onrender.com";
 const PREDICT_URL = `${API_BASE_URL}/predict`;
 const REQUEST_TIMEOUT_MS = 20000;
 const MIN_LOADING_MS = 600; // keeps the loading animation from flashing on fast responses
